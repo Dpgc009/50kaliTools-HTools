@@ -54,7 +54,7 @@ git clone https://github.com/mempodippy/vlany.git
 git clone https://github.com/unix-thrust/beurk.git
 git clone https://github.com/nmap/nmap.git
 git clone https://github.com/leviathan-framework/leviathan.git
-git clone https://github.com/n1nj4sec/pupy/tree/master/client
+git clone https://github.com/n1nj4sec/pupy.git
 git clone https://github.com/valyala/goloris.git
 git clone https://github.com/radare/radare2.git
 git clone https://github.com/OffensivePython/Saddam.git
